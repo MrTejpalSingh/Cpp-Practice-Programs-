@@ -1,3 +1,4 @@
+// Stack program
 #include<iostream.h>
 #include<conio.h>
 #define Max 10
